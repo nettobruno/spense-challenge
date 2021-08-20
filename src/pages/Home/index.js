@@ -1,6 +1,3 @@
-// Dependencies
-import React from 'react';
-
 // Components
 import MenuHamburguer from '../../components/MenuHamburguer';
 

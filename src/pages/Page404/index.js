@@ -1,6 +1,3 @@
-// Dependencies
-import React from 'react';
-
 // Styles
 import { Container } from './styles';
 
