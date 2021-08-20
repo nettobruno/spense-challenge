@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import listImage from '../../Assets/Checkmark.svg'
+import listImage from '../../Assets/checkmark.svg'
 
 export const Container = styled.div`
   background-color: #fff;
